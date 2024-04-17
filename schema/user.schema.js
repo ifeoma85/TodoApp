@@ -16,4 +16,4 @@ token: {
     type: String,
     required: true,
 }
-})
+});
